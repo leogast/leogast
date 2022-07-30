@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page! 🎉
+Welcome to my page!
 
 I'm Leo, a 💻 Computer Science & ⚙️ Software Engineering Student at 🇸🇪 Stockholm University.
 
