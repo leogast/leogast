@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page!
-
+Welcome to my page! 
 I'm Leo, a 💻 Computer Science & ⚙️ Software Engineering Student at 🇸🇪 Stockholm University.
 I am committed to acquiring the necessary expertise and skills to pursue a career in Technology.
 
