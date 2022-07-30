@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Quality-driven Computer Science & Software Engineering Student at Stockholm University; I am committed to acquiring the necessary expertise and skills to pursue a career in Technology.
+
 <!--
 **leogast/leogast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
