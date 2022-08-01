@@ -4,6 +4,8 @@ Welcome to my page!
 
 I'm Leo, a 💻 Computer Science & ⚙️ Software Engineering Student at 🇸🇪 Stockholm University.
 
+![Use Case Diagram](./7F709B11-E77C-476B-9A61-CB22C92B25C9_4_5005_c.jpeg)
+
 <!--
 **leogast/leogast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
