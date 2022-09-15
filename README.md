@@ -3,10 +3,8 @@
 Welcome to my page!
 
 I'm Leo, a 💻 Computer Science & ⚙️ Software Engineering Student at 🇸🇪 Stockholm University.
-
  
-![4A0526EB-6BCE-4DBF-B88F-5455C9BB79CA_4_5005_c](https://user-images.githubusercontent.com/87450778/190135333-dc43f3b3-b6c7-43bf-96be-c23dc0af5fe1.jpeg)
-
+![408C33C1-CFCC-40AA-BDD8-F9E5EB52AE4F_1_201_a](https://user-images.githubusercontent.com/87450778/190330010-cf142f63-815c-47fb-85c6-372ed633ce27.jpeg)
 
 <!--
 **leogast/leogast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
