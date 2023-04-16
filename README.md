@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Leo, a 💻 Computer Science & ⚙️ Software Engineering Student at 🇸🇪 Stockholm University.
+I'm a 💻 Computer Science & ⚙️ Software Engineering Student at 🇸🇪 Stockholm University.
  
 ![408C33C1-CFCC-40AA-BDD8-F9E5EB52AE4F_1_201_a](https://user-images.githubusercontent.com/87450778/190330010-cf142f63-815c-47fb-85c6-372ed633ce27.jpeg)
 
