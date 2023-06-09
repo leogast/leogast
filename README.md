@@ -1,4 +1,6 @@
-💻 Computer Science & Software Engineering student. Feel free to reach out to connect, collaborate, or discuss opportunities.
+💻 Computer Science & Software Engineering student.
+
+👋 Feel free to reach out to connect, collaborate, or discuss opportunities.
 
 https://linkedin.com/in/leogast
 
