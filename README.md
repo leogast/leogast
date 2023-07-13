@@ -1,6 +1,6 @@
 Computer Science & Software Engineering [Datavetenskap] student 2022-2025
 
-👋 Feel free to reach out to connect, collaborate, or discuss opportunities
+Feel free to reach out to connect, collaborate, or discuss opportunities
 
 https://linkedin.com/in/leogast
  
