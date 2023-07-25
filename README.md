@@ -1,4 +1,4 @@
-Computer Science & Software Engineering [Datavetenskap] Student
+Computer Science & Software Engineering Student [Datavetenskap]
 
 Feel free to reach out to connect, collaborate, or discuss opportunities
 
