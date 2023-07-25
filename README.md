@@ -4,7 +4,7 @@ Feel free to reach out to connect, collaborate, or discuss opportunities
 
 https://linkedin.com/in/leogast
 
-![RCard](https://github.com/leogast/leogast/assets/87450778/702beec3-023d-4330-89f3-eee6ead815c4)
+![D8B55453-210F-4491-8381-511F8E6E6243_1_201_a](https://github.com/leogast/leogast/assets/87450778/d12852d3-0c46-455f-a55d-6b1df71fe540)
  
 <!--
 **leogast/leogast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
