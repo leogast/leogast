@@ -1,4 +1,4 @@
-Computer Science & Software Engineering [Datavetenskap] student 2022-2025
+Computer Science & Software Engineering [Datavetenskap] Student
 
 Feel free to reach out to connect, collaborate, or discuss opportunities
 
