@@ -1,6 +1,6 @@
 Computer Science & Software Engineering Student [Datavetenskap]
 
-Feel free to reach out to connect, collaborate, or discuss opportunities
+Please feel free to connect, collaborate, or discuss any opportunities
 
 https://linkedin.com/in/leogast
 
