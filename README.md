@@ -1,7 +1,5 @@
 https://linkedin.com/in/leogast
 
-![583F1092-C15E-4D44-BE3E-FE6D2F837667_1_201_a](https://github.com/leogast/leogast/assets/87450778/ea156b9a-4471-46a8-94c5-a13afa22f8d2)
- 
 <!--
 **leogast/leogast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
