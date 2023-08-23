@@ -1,4 +1,4 @@
-https://linkedin.com/in/leogast
+https://linktr.ee/leogast
 
 <!--
 **leogast/leogast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
