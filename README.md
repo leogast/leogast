@@ -1,6 +1,6 @@
 🔗 https://linktr.ee/leogast
 
-![0C3A986D-F6E9-40BD-8F6D-B8792731CCD1_1_201_a](https://github.com/leogast/leogast/assets/87450778/00da14b7-cd29-4d46-a776-ad8894df7f7a)
+![77F41A56-DBF5-4FB2-835E-648C18800966_1_201_a](https://github.com/leogast/leogast/assets/87450778/3870fd42-72df-48b1-87b7-5e9ce0e34c40)
 
 <!--
 **leogast/leogast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
